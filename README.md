@@ -19,8 +19,8 @@ This repository contains Jupyter notebooks that demonstrate data analysis and vi
 
 ```
 DataVisualisation-Python/
-├── Bhaanavee.ipynb - Jupyter notebook with data analysis and visualizations
-├── Untitled1.ipynb - Additional Jupyter notebook with data exploration
+├── Visualisation.ipynb - Jupyter notebook with data analysis and visualizations
+├── Visualisation2.ipynb - Additional Jupyter notebook with data exploration
 └── README.md - Project documentation
 ```
 
@@ -58,7 +58,7 @@ DataVisualisation-Python/
 
 ### Quick Start
 
-1. Open `Bhaanavee.ipynb` in Jupyter Notebook
+1. Open `Visualisation.ipynb` in Jupyter Notebook
 2. Run the cells to see the data analysis and visualizations in action
 3. The notebook analyzes student performance data and creates visualizations to identify patterns
 
