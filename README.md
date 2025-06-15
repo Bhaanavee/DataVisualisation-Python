@@ -1,19 +1,27 @@
 # Data Visualization with Python
 
-A project focused on exploring and demonstrating data visualization techniques using Python libraries.
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.x-green.svg)](https://seaborn.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.x-yellow.svg)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
+A comprehensive project demonstrating advanced data visualization techniques using Python libraries for educational data analysis.
 
 ## 📊 Overview
 
-This repository contains Jupyter notebooks that demonstrate data analysis and visualization techniques using Python. The project focuses on analyzing educational data to extract meaningful insights through various visualization methods.
+This repository contains Jupyter notebooks that demonstrate data analysis and visualization techniques using Python. The project focuses on analyzing educational data (student performance) to extract meaningful insights through various visualization methods, from basic plots to advanced statistical visualizations.
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.x** - Core programming language
 - **Matplotlib** - Fundamental plotting library for creating static visualizations
 - **Seaborn** - Statistical data visualization library built on Matplotlib
 - **Pandas** - Data manipulation and analysis library
 - **NumPy** - Numerical computing library for handling arrays and mathematical operations
 - **Jupyter Notebook** - Interactive computing environment for creating and sharing documents
+- **SQL** (via Pandas) - For data querying and analysis in some notebooks
 
 ## 📁 Repository Structure
 
